@@ -15,8 +15,8 @@ The first tutorial, contained in `CircuitDrivingTutorial.ipynb`, lays out the th
 
 ## Dependencies
 
-python - 3.10.8
-scqubits - 3.1.0
-numpy - 1.22.4
-qutip - 4.7.0
-matplotlib - 3.5.1
+* python: 3.10.8
+* scqubits: 3.1.0
+* numpy: 1.22.4
+* qutip: 4.7.0
+* matplotlib: 3.5.1
