@@ -9,9 +9,8 @@ By a proper choice of drive frequency, amplitude and envelope, logical operation
 The popular Python package QuTiP can be used to simulate the time dynamics of quantum systems. 
 For the simulation of superconducting circuits, scQubits provides an easy and transparent interface to QuTiP through the `HilbertSpace` class.
 
-This set of notebooks provides a three-part tutorial showcasing how scQubits can be easily used to simulate dynamics of driven superconducting circuits.
-The first tutorial, contained in `CircuitDrivingTutorial.ipynb`, lays out the theory and provides a walkthrough of the process for building the simulation. The notebooks
-`FluxoniumRestTutorial.ipynb` and `FluxoniumCZTutorial.ipynb` provide sample applications using examples from the literature.
+These notebooks showcase how scQubits can be easily used to simulate dynamics of driven superconducting circuits useing examples from the literature. The notebook
+`FluxoniumRestTutorial.ipynb` provides a tutorial for using scQubits to simulate the heavy-fluxonium initialization procedure described in [Universal fast flux control of a coherent, low-frequency qubit](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.11.011010) by Zhang et al. The notebook `FluxoniumCZTutorial.ipynb` contains a tutorial for using scQubits to simulate the procedure for effecting a CZ-gate on a coupled pair of fluxonium qubits described by Nesterov et al. in [Microwave-Activated Controlled-Z Gate for Fixed-Frequency Fluxonium Qubits.](https://arxiv.org/abs/1802.03095)
 
 ## Dependencies
 
