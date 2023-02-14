@@ -14,8 +14,8 @@ These notebooks showcase how scQubits can be easily used to simulate dynamics of
 
 ## Dependencies
 
-* python: 3.10.8 (check with 3.7)
+* python: 3.7.0
 * scqubits: 3.1.0
-* numpy: 1.22.4
-* qutip: 4.7.0
-* matplotlib: 3.5.1
+* numpy: 1.21.6
+* qutip: 4.7.1
+* matplotlib: 3.5.3
